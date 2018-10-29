@@ -1,0 +1,16 @@
+{
+	"instance" : {
+		"traitsUsedByClass:" : "Caro 10/29/2018 10:56",
+		"messagesSentByPackageNamed:" : "Caro 10/29/2018 11:17",
+		"manuallyResolvedDependenciesOfPackageNamed:" : "Caro 10/29/2018 11:30",
+		"methodsInPackageNamed:" : "Caro 10/29/2018 12:30",
+		"referencesOfMethod:" : "Caro 10/29/2018 10:52",
+		"packageNamed:" : "Caro 10/29/2018 10:40",
+		"ringEnvironment:" : "Caro 10/29/2018 10:39",
+		"selectorsDefinedInPackageNamed:" : "Caro 10/29/2018 11:30",
+		"unpackagedPackage" : "Caro 10/29/2018 10:39"
+	},
+	"class" : {
+		"on:" : "Caro 10/29/2018 10:39"
+	}
+}
